@@ -1,0 +1,6 @@
+{
+  "name": "Fixora",
+  "description": "Unified platform to find the right service, department, authority, or solution for any everyday problem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
